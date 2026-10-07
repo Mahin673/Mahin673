@@ -1,4 +1,8 @@
-
+<p align="center">
+  <img src="./github-cover.png"
+       alt="Mahin673 GitHub Profile Banner"
+       width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm MD. Rakibul Hasan Mahin</h1>
 <h3 align="center">A passionate Computer Engineer from Bangladesh.</h3>
 
